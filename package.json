@@ -1,0 +1,18 @@
+{
+  "name": "ansyn-geoserver",
+  "version": "1.0.0",
+  "description": "Run geoserver with mounting to s3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webiks/ansyn-fork-S3geoserver.git"
+  },
+  "author": "Tzahi Levi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webiks/ansyn-fork-S3geoserver/issues"
+  },
+  "homepage": "https://github.com/Webiks/ansyn-fork-S3geoserver#readme"
+}
